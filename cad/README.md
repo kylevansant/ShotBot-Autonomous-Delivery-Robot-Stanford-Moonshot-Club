@@ -4,6 +4,12 @@ This directory contains the mechanical CAD developed for **ShotBot**, a stair-cl
 
 The CAD was created primarily in Autodesk Fusion 360. Native Fusion design files and STEP exports are included where appropriate to make the models accessible across different CAD platforms.
 
+## Main Assembly Render
+
+![ShotBot main assembly render](Renders/Main.png)
+
+The render above shows the primary ShotBot mechanical assembly, including the drivetrain, tread system, chassis, and stair-climbing mechanisms.
+
 ## Directory Contents
 
 ### Main Assembly
@@ -12,12 +18,12 @@ The assembly files contain the primary mechanical configuration of ShotBot and a
 
 ### Custom Parts
 
-The `custom_parts/` directory contains the relevant custom mechanical components developed during the ShotBot project.
+The `Custom_parts/` directory contains the relevant custom mechanical components developed during the ShotBot project.
 
 This directory includes:
 
-* Parts used in the final or most recent ShotBot configuration
-* Earlier design iterations that were later revised or replaced
+- Parts used in the final or most recent ShotBot configuration
+- Earlier design iterations that were later revised or replaced
 
 The older components are retained to document the mechanical development process and provide context for how the design evolved over the course of the project.
 
@@ -37,7 +43,15 @@ The concept was adapted for ShotBot's mechanical requirements and stair-climbing
 
 ## Renders
 
-The `renders/` directory contains images of the ShotBot assembly and major mechanical systems. These renders are provided to make the design easier to inspect without requiring CAD software.
+The `Renders/` directory contains additional views of the ShotBot assembly and major mechanical systems. These renders are provided to make the design easier to inspect without requiring CAD software.
+
+Available views include:
+
+- `Front.png`
+- `Isometric.png`
+- `Main.png`
+- `Side.png`
+- `Top.png`
 
 ## Third-Party Components
 
