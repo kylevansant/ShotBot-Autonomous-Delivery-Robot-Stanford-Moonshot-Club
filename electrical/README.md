@@ -10,7 +10,7 @@ The custom PCB and associated electrical architecture were successfully installe
 
 ## System Architecture
 
-![ShotBot Electrical Architecture](diagrams/shotbotelectricalarchitecture.png)
+![ShotBot Electrical Architecture](diagrams/ShotBotElectricalArchitecture.png)
 
 The electrical system is divided into two primary sections:
 
