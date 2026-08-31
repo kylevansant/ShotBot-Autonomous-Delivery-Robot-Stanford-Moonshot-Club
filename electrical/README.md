@@ -106,6 +106,8 @@ Because the signal routing is defined directly by the PCB, the Altium schematic 
 
 ## PCB Design Files
 
+![ShotBot Electrical Architecture](pcb/images/ShotBotPCB3D.png)
+
 The `pcb/` directory contains the design and fabrication files associated with the custom interconnect board.
 
 ### Source
