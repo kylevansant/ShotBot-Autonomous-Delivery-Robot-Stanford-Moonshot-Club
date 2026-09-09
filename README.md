@@ -85,7 +85,6 @@ The major project sections are organized as follows:
 - [`firmware/`](firmware/) — final ESP32 control firmware and control-system documentation
 - [`docs/`](docs/) — project records, bill of materials, original pitch, and design references
 - [`media/`](media/) — development, testing, and final demonstration footage
-- [`tests/`](tests/) — testing documentation and related material
 
 Each major engineering section contains its own README with more detailed technical documentation.
 
