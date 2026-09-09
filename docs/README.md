@@ -8,7 +8,7 @@ Detailed mechanical, electrical, and firmware documentation is maintained in the
 
 ## Bill of Materials and Project Costs
 
-[`shotbot_bom_and_costs.xlsx`](shotbot_bom_and_costs.xlsx)
+[`Shotbot_BOM.xlsx`](Shotbot_BOM.xlsx)
 
 This spreadsheet contains component procurement and cost records accumulated throughout ShotBot development.
 
@@ -56,7 +56,7 @@ The following literature was used during development to evaluate existing approa
 
 ### Stair-Climbing Robot Mechanisms
 
-[`references/stair_climbing_robots_review.pdf`](references/stair_climbing_robots_review.pdf)
+[`References/stair_climbing_robots_review.pdf`](References/stair_climbing_robots_review.pdf)
 
 **T. Seo, S. Ryu, J. H. Won, Y. Kim, and H. S. Kim,  
 "Stair-climbing Robots: a Review on Mechanism, Sensing, and Performance Evaluation,"  

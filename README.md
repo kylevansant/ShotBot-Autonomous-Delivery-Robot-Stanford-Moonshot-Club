@@ -1,3 +1,4 @@
+
 # ShotBot
 
 **Stair-Climbing Robotic Delivery Platform**  
@@ -15,7 +16,11 @@ The repository documents the full engineering process, including mechanical desi
 
 The final prototype successfully demonstrated the primary goal of the project: climbing a staircase using its tracked drivetrain and articulated front mechanism.
 
-[**Watch the final stair-climbing demonstration**](media/Videos/Climbing/Final_Stair_Climb_Web.mp4)
+
+
+https://github.com/user-attachments/assets/51ea6069-b447-48b8-9718-07221bc402e1
+
+
 
 Additional development and testing footage is available in the [`media/`](media/) directory.
 
@@ -80,7 +85,6 @@ The major project sections are organized as follows:
 - [`firmware/`](firmware/) — final ESP32 control firmware and control-system documentation
 - [`docs/`](docs/) — project records, bill of materials, original pitch, and design references
 - [`media/`](media/) — development, testing, and final demonstration footage
-- [`tests/`](tests/) — testing documentation and related material
 
 Each major engineering section contains its own README with more detailed technical documentation.
 
