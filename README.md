@@ -16,8 +16,12 @@ The repository documents the full engineering process, including mechanical desi
 
 The final prototype successfully demonstrated the primary goal of the project: climbing a staircase using its tracked drivetrain and articulated front mechanism.
 
-[[**Watch the final stair-climbing demonstration**](media/Videos/Climbing/Final_Stair_Climb_Web.mp4)
-](https://github.com/user-attachments/assets/20ae6eb3-98e8-4296-bb45-0e93d15d0720)
+
+
+https://github.com/user-attachments/assets/51ea6069-b447-48b8-9718-07221bc402e1
+
+
+
 Additional development and testing footage is available in the [`media/`](media/) directory.
 
 ## Mechanical Design
