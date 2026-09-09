@@ -1,3 +1,4 @@
+
 # ShotBot
 
 **Stair-Climbing Robotic Delivery Platform**  
@@ -15,8 +16,8 @@ The repository documents the full engineering process, including mechanical desi
 
 The final prototype successfully demonstrated the primary goal of the project: climbing a staircase using its tracked drivetrain and articulated front mechanism.
 
-[**Watch the final stair-climbing demonstration**](media/Videos/Climbing/Final_Stair_Climb_Web.mp4)
-
+[[**Watch the final stair-climbing demonstration**](media/Videos/Climbing/Final_Stair_Climb_Web.mp4)
+](https://github.com/user-attachments/assets/20ae6eb3-98e8-4296-bb45-0e93d15d0720)
 Additional development and testing footage is available in the [`media/`](media/) directory.
 
 ## Mechanical Design
